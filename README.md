@@ -1,4 +1,4 @@
-📌 Projeto: Gerenciamento de Banco de Dados com SQLite e TypeScript
+# 📌 Projeto: Gerenciamento de Banco de Dados com SQLite e TypeScript
 
 Para a instalação:
 <h4 align="center">
@@ -8,8 +8,9 @@ yarn add sqlite sqlite3
 </h4>
 
 Para rodar os testes:
-# yarn test
-
+<h4 align="center">
+: yarn test :
+</h4>
 Uso do DAO Genérico: 
 Foi implementado um DAO genérico para facilitar a reutilização de código
 
