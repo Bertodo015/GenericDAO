@@ -6,7 +6,7 @@ yarn install
 yarn add sqlite3
 yarn add sqlite sqlite3
 ```
-<br/><br/>
+<br/>
 Para rodar os testes:
 ```
 yarn test
