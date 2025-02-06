@@ -1,4 +1,4 @@
-# 📌 Projeto: Generic DAO com SQLite e TypeScript
+# 📌 Projeto: Gerenciamento de DAO Generico com SQLite e TypeScript
 
 Para a instalação:
 <h4 align="center">
