@@ -8,7 +8,7 @@ yarn add sqlite sqlite3
 </h4>
 
 Para rodar os testes:
-yarn test
+# yarn test
 
 Uso do DAO Genérico: 
 Foi implementado um DAO genérico para facilitar a reutilização de código
