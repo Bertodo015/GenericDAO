@@ -1,4 +1,4 @@
-# 📌 Projeto: Gerenciamento de DAO Generico com SQLite e TypeScript
+# 📌 Projeto: Gerenciamento de DAO Genérico com SQLite e TypeScript
 <br/> <br/>
 Para a instalação:
 ```
